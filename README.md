@@ -1,6 +1,6 @@
 [![MasterHead](https://unicheck.com/blog/wp-content/uploads/2015/09/nsl3.png)]
 <h1 align="center">Hi 👋, I'm Pavan GN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://acropolium.com/img/articles/most-popular-backend-frameworks/img01.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavangn1223&label=Profile%20views&color=0e75b6&style=flat" alt="pavangn1223" /> </p>
